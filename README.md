@@ -204,4 +204,4 @@ written permission to test. The authors accept no liability for misuse.
 
 ## License
 
-BSD 2-Clause License — see [LICENSE](LICENSE).
+BSD 3-Clause License — see [LICENSE](LICENSE).
